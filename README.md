@@ -2,7 +2,7 @@
 
 Welcome to the Predictive Analysis repository! 
 
-This project aims to provide a comprehensive understanding of various predictive analysis techniques and their implementation in Python using the scikit-learn library. The project focuses on various regression and classification algorithms, feature engineering and selection techniques, and performance evaluation metrics. Whether you are a beginner or an experienced data analyst, this project will help you deepen your understanding of predictive analysis and its application in real-world problems. So, let's dive into the world of Predictive Analysis and make the most of this repository!
+This project aims to provide a comprehensive understanding of various predictive analysis techniques and their implementation in Python using the scikit-learn library. The project focuses on various regression and classification algorithms, feature engineering and selection techniques, and performance evaluation metrics.So, let's dive into the world of Predictive Analysis and make the most of this repository!
 
 ## Libraries used:
 1. **Pandas**
